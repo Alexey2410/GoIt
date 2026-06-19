@@ -1,4 +1,4 @@
-package org.example;
+package org.goit;
 
 public class HelloWorld {
 
